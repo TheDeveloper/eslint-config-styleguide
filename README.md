@@ -25,3 +25,14 @@ parserOptions:
 extends:
   - '@thedeveloper/js-styleguide'
 ```
+
+```bash
+mkdir -p .vscode && \
+cat > .vscode/settings.json <<EOF
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  }
+}
+EOF
+```
