@@ -5,7 +5,7 @@ In your project:
 ```bash
 # use github package registry
 cat > .npmrc <<EOF
-registry=https://npm.pkg.github.com/thedeveloper
+@thedeveloper:registry=https://npm.pkg.github.com/thedeveloper
 EOF
 
 npm i -D \
