@@ -26,6 +26,8 @@ extends:
   - '@thedeveloper/js-styleguide'
 ```
 
+Add `.vscode/settings.json` to auto fix errors:
+
 ```bash
 mkdir -p .vscode && \
 cat > .vscode/settings.json <<EOF
