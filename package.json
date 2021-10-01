@@ -2,7 +2,6 @@
   "name": "@thedeveloper/js-styleguide",
   "version": "1.0.0",
   "description": "Eslint rules",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
