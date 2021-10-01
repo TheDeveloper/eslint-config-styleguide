@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/TheDeveloper/js-styleguide/issues"
   },
-  "homepage": "https://github.com/TheDeveloper/js-styleguide#readme"
+  "homepage": "https://github.com/TheDeveloper/js-styleguide#readme",
+  "eslintConfig": {
+    "extends": "./index.js"
+  },
 }
