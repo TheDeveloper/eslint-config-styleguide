@@ -12,7 +12,7 @@
   },
   "keywords": [],
   "author": "Geoff Wagstaff <geoffwagstaff@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/TheDeveloper/js-styleguide/issues"
   },
