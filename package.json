@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/TheDeveloper/eslint-config-styleguide#readme",
   "files": [
-    ".eslintrc.js",
+    "index.js",
     "README.md"
   ],
   "devDependencies": {
