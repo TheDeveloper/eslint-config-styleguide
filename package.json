@@ -19,9 +19,6 @@
     "url": "https://github.com/TheDeveloper/eslint-config-styleguide/issues"
   },
   "homepage": "https://github.com/TheDeveloper/eslint-config-styleguide#readme",
-  "eslintConfig": {
-    "extends": ".eslintrc.js"
-  },
   "files": [
     ".eslintrc.js",
     "README.md"
