@@ -10,6 +10,8 @@ EOF
 
 npm i -D \
   @thedeveloper/eslint-config-styleguide \
+  eslint-config-airbnb-base \
+  eslint-plugin-import \
   eslint
 ```
 
