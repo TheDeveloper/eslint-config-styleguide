@@ -9,7 +9,7 @@ cat > .npmrc <<EOF
 EOF
 
 npm i -D \
-  @thedeveloper/js-styleguide \
+  @thedeveloper/eslint-config-styleguide \
   eslint
 ```
 
@@ -23,7 +23,7 @@ parserOptions:
   ecmaVersion: 12
 
 extends:
-  - '@thedeveloper/js-styleguide'
+  - '@thedeveloper/eslint-config-styleguide'
 ```
 
 Add `.vscode/settings.json` to auto fix errors:
