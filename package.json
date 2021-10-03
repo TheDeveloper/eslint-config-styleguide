@@ -1,5 +1,5 @@
 {
-  "name": "@thedeveloper/js-styleguide",
+  "name": "@thedeveloper/eslint-config-js-styleguide",
   "version": "1.0.0",
   "description": "Eslint rules",
   "scripts": {
