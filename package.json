@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TheDeveloper/js-styleguide.git"
+    "url": "git+https://github.com/TheDeveloper/eslint-config-styleguide.git"
   },
   "keywords": [],
   "author": "Geoff Wagstaff <geoffwagstaff@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/TheDeveloper/js-styleguide/issues"
+    "url": "https://github.com/TheDeveloper/eslint-config-styleguide/issues"
   },
-  "homepage": "https://github.com/TheDeveloper/js-styleguide#readme",
+  "homepage": "https://github.com/TheDeveloper/eslint-config-styleguide#readme",
   "eslintConfig": {
     "extends": ".eslintrc.js"
   },
