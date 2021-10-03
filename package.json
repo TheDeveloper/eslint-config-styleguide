@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/TheDeveloper/js-styleguide#readme",
   "eslintConfig": {
-    "extends": "./.eslintrc.js"
+    "extends": ".eslintrc.js"
   },
   "files": [
     ".eslintrc.js",
