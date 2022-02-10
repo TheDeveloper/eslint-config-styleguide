@@ -14,6 +14,7 @@ module.exports = {
 
   rules: {
     'comma-dangle': [ 'error', 'never' ],
-    'array-bracket-spacing': [ 'error', 'always' ]
+    'array-bracket-spacing': [ 'error', 'always' ],
+    'no-param-reassign': 'off'
   }
 };
